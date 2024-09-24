@@ -33,3 +33,5 @@ You need the following installed on your machine:
 - Node.js
 - PostgreSQL (or use a cloud PostgreSQL provider)
 - Cloudflare CLI for managing Cloudflare Workers (optional if using a local dev environment)
+
+
